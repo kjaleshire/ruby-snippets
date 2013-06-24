@@ -17,5 +17,3 @@ and clone the repository using the command below:
 
 ``` shell
 git clone https://github.com/kjaleshire/ruby-snippets.git RubySnippets
-```
-
