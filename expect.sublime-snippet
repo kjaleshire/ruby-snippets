@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[expect($1).to ]]></content>
     <tabTrigger>e</tabTrigger>
-    <scope>source.ruby.rspec</scope>
+    <scope>source.ruby</scope>
     <description>expect().to </description>
 </snippet>

@@ -3,6 +3,6 @@
   $2
 end]]></content>
     <tabTrigger>letm</tabTrigger>
-    <scope>source.ruby.rspec</scope>
+    <scope>source.ruby</scope>
     <description>let</description>
 </snippet>
