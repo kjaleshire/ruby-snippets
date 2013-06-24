@@ -1,6 +1,5 @@
-=======
-ruby-snippets
-=============
+RubySnippets
+------------
 
 Ruby snippets for Sublime Text 2|3
 
